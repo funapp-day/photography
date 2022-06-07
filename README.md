@@ -1,42 +1,4 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+# 나의 사진첩
+## 개요
+갤러리에 보관 된 사진들을 추억하고 싶은데 막상 찍어두고 보질 않더라구요.  
+그래서 제가 다닌 여행지들을 쉽게 추억할 수 있도록 갤러리 사이트를 만들어보고자 해요.
